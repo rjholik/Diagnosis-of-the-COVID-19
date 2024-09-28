@@ -1,4 +1,4 @@
-# Diagnosis-of-the-COVID-19
+# Diagnosis of the COVID-19
 This project is aimed at improving my skills in feature engineering and machine learning with a focus on predicting COVID-19 and flu diagnoses. By utilizing a dataset of clinical and demographic features, the goal is to develop robust machine learning models that assist in accurate and timely diagnostics of respiratory illnesses. The project explores various techniques in data preprocessing, feature importance analysis, and model evaluation.
 
 # Project Objectives
