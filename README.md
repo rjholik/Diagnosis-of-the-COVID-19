@@ -21,3 +21,6 @@ This project is aimed at improving my skills in feature engineering and machine 
 - Seaborn and Matplotlib for data visualization
 - Keras and TensorFlow for neural networks
 - CTGAN for data augmentation
+
+# Conclusion
+This project helps in honing <br>feature engineering</br> and <br>model training</br> skills, with a practical focus on medical diagnostics. It explores the complexities of imbalanced datasets and emphasizes the importance of feature selection in machine learning for healthcare applications.
